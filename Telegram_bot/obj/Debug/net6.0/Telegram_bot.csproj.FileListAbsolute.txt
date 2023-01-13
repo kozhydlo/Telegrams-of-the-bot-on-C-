@@ -1,0 +1,5 @@
+D:\програмування\c#\Telegram bot\Telegram_bot\Telegram_bot\obj\Debug\net6.0\Telegram_bot.csproj.AssemblyReference.cache
+D:\програмування\c#\Telegram bot\Telegram_bot\Telegram_bot\obj\Debug\net6.0\Telegram_bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмування\c#\Telegram bot\Telegram_bot\Telegram_bot\obj\Debug\net6.0\Telegram_bot.AssemblyInfoInputs.cache
+D:\програмування\c#\Telegram bot\Telegram_bot\Telegram_bot\obj\Debug\net6.0\Telegram_bot.AssemblyInfo.cs
+D:\програмування\c#\Telegram bot\Telegram_bot\Telegram_bot\obj\Debug\net6.0\Telegram_bot.csproj.CoreCompileInputs.cache
